@@ -1,1 +1,1 @@
-H1TEST
+# DeepWiki Rendering Test HTML vectors below.  <img src=x onerror=window.__h1xss=1>  <svg><animate onbegin=window.__h1svg=1 attributeName=x dur=1s></svg>  <math><mtext><table><mglyph><style><img src=x onerror=window.__h1math=1>  <details open ontoggle=window.__h1details=1>  Plain: javascript:alert(1)
